@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20Lomadia&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi!%20I'm%20Lomadia&fontSize=40&animation=fadeIn&fontAlignY=36" />
   <h2>My Skills</h2>
   <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square"/> &nbsp; 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
